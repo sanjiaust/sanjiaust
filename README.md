@@ -1,4 +1,6 @@
 # I am Sanji 👋
 
-[![Sanji's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjiaust)](https://github.com/sanjiaust/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sanjiaust"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiaust&layout=compact"/>
+
 
