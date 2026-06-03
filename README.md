@@ -8,9 +8,10 @@
 - 🎓 BSc in Computer Science & Engineering — **Ahsanullah University of Science and Technology (AUST)**, Dec 2025
 - 📊 Transitioning into **Data Analytics** — working with Python, SQL, Power BI, and Excel
 - 🌐 Background in full-stack web development (PHP, MySQL, ASP.NET MVC)
-- 🔬 Co-author of **ZETA Protocol** — a blockchain architecture paper targeting Q1 SCIE journals
-- 📫 Reach me at **1ridwansanji@gmail.com**
-- 💼 Open to **Junior Data Analyst**, **Junior Web Developer**, and **SQA** roles
+- 🔬 Academic thesis on **low-resource language contrastive learning** (NLP)
+- 📝 Co-author on a blockchain research paper addressing the **trilemma problem**
+- 📫 Reach me at **1ridwansanji@gmail.com** or **ridwanulislamsanji@gmail.com**
+- 💼 Open to **Junior Data Analyst** and **Junior Web Developer** roles
 
 <br/>
 
