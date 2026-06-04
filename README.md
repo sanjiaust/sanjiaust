@@ -54,8 +54,8 @@
 ## GitHub Stats
 
 <p align="left">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sanjiaust&show_icons=true&hide_border=true&theme=default" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiaust&layout=compact&hide_border=true&theme=default" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sanjiaust&show_icons=true&hide_border=true&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiaust&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 <br/>
