@@ -42,13 +42,11 @@
 <br/>
 
 ## Featured Projects
-
 | Project | Description | Tech |
 |---|---|---|
+| [InsightPulse BI](https://github.com/sanjiaust/insightpulse-bi) | Sales analytics dashboard with SQL window functions (LAG, RANK) for YoY growth and rankings, per-account data isolation, and category/region performance breakdowns | PHP, MySQL, JavaScript |
 | [MediEase](https://github.com/sanjiaust/Mediease) | Role-based medical appointment booking system with patient, doctor, and admin portals | PHP, MySQL, Bootstrap |
 | [BuyBay](https://github.com/sanjiaust/ISD_Project) | E-commerce web application | PHP, MySQL |
-| [DataPortal](https://github.com/sanjiaust/DataPortal) | ASP.NET MVC app demonstrating form handling, session auth, and BMI calculator | C#, ASP.NET MVC |
-
 <br/>
 
 # 📊 GitHub Stats:
