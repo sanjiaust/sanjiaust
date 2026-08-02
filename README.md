@@ -61,6 +61,4 @@
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=Sanjiaust&color=blueviolet&style=flat-square&label=Profile%20Views)
 --
-
-![GitHub Snake](https://raw.githubusercontent.com/sanjiaust/view/output/github-snake.svg)
 <p align="left"><i>"Learning something new every day."</i></p>
