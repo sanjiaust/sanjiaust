@@ -60,5 +60,16 @@
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=Sanjiaust&color=blueviolet&style=flat-square&label=Profile%20Views)
+--
+<!-- Different colors -->
+![Profile views](https://komarev.com/ghpvc/?username=Sanjiaust&color=brightgreen)  <!-- Green -->
+![Profile views](https://komarev.com/ghpvc/?username=Sanjiaust&color=blue)         <!-- Blue -->
+![Profile views](https://komarev.com/ghpvc/?username=Sanjiaust&color=ff69b4)       <!-- Pink -->
+
+<!-- Without label (just shows number) -->
+![Profile views](https://komarev.com/ghpvc/?username=Sanjiaust)
+
+<!-- Flat badge style -->
+![Profile views](https://komarev.com/ghpvc/?username=Sanjiaust&style=flat)
 
 <p align="left"><i>"Learning something new every day."</i></p>
