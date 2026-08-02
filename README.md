@@ -59,5 +59,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1ridwansanji@gmail.com)
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=Sanjiaust&color=blueviolet&style=flat-square&label=Profile%20Views)
 
 <p align="left"><i>"Learning something new every day."</i></p>
